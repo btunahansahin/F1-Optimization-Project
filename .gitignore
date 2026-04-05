@@ -1,0 +1,9 @@
+# Veri dosyaları çok büyük olduğu için GitHub'a yüklenmez
+data/
+
+# Python önbellek dosyaları
+__pycache__/
+.pytest_cache/
+
+# İşletim sistemi kalıntıları
+.DS_Store
