@@ -11,7 +11,7 @@ Projenin arka planı **PostgreSQL** ile modellenmiş olup, ileri seviye SQL sorg
 
 ## 📸 Dashboard Görünümü
 ![Dashboard Ekran Görüntüsü](dashboard_screenshot.png)
-*(Not: Bu görüntünün çalışması için uygulamanın ekran görüntüsünü alıp adını `dashboard_screenshot.png` olarak proje klasörüne kaydetmelisin)*
+
 
 ## 🚀 Öne Çıkan Analizler ve İş Kararları (Business Insights)
 * **Hız vs. İstikrar (Standart Sapma):** Sadece ortalama hıza değil, pit-stop istikrarına bakıldığında şaşırtıcı şekilde **HRT** takımının en düşük standart sapmaya (en az hata payına) sahip olduğu matematiksel olarak kanıtlanmıştır.
